@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"fnt_font","order":19,"path":"fonts/fnt_font/fnt_font.yy",},
+    {"name":"spr_thingy","order":16,"path":"sprites/spr_thingy/spr_thingy.yy",},
+    {"name":"obj_thingy","order":17,"path":"objects/obj_thingy/obj_thingy.yy",},
+    {"name":"obj_main","order":18,"path":"objects/obj_main/obj_main.yy",},
+    {"name":"Room1","order":15,"path":"rooms/Room1/Room1.yy",},
+  ],
+}

@@ -1,0 +1,34 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "test - depth equals minus y",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.800.0.406",
+  },
+  "resources": [
+    {"id":{"name":"fnt_font","path":"fonts/fnt_font/fnt_font.yy",},},
+    {"id":{"name":"spr_thingy","path":"sprites/spr_thingy/spr_thingy.yy",},},
+    {"id":{"name":"obj_thingy","path":"objects/obj_thingy/obj_thingy.yy",},},
+    {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
