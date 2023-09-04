@@ -1,5 +1,6 @@
 self.count = 6_000;
 self.depth_sorting = true;
+self.movement = true;
 
 self.Spawn = function(n) {
     var current = instance_number(obj_thingy);

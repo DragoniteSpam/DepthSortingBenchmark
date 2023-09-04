@@ -4,3 +4,4 @@ draw_text(32, 32, $"Instance count: {self.count}, fps: {fps} / {fps_real}");
 draw_text(32, 64, $"Depth sorting: {self.depth_sorting ? "on" : "off"}");
 draw_text(32, 96, "Use the Up and Down keys to increase or decrease instance count");
 draw_text(32, 128, "Use Enter to enable/disable depth sorting");
+draw_text(32, 160, "Use Space to enable/disable movement");

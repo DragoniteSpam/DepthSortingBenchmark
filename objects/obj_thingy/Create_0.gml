@@ -1,2 +1,2 @@
-self.speed = random_range(3, 8);
-self.direction = random(360);
+self.velocity = random_range(3, 8);
+self.dir = random(360);
